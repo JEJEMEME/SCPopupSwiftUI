@@ -6,4 +6,13 @@
 //  Copyright © 2022 CocoaPods. All rights reserved.
 //
 
-import Foundation
+import SwiftUI
+
+@main
+struct PodSwiftUIApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}

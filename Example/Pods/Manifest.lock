@@ -1,0 +1,16 @@
+PODS:
+  - PodSwiftUI (0.1.0)
+
+DEPENDENCIES:
+  - PodSwiftUI (from `../`)
+
+EXTERNAL SOURCES:
+  PodSwiftUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodSwiftUI: 5ee0976a44417c0b5f29aaabd4b7ab9f925be0f1
+
+PODFILE CHECKSUM: 477f2dd8166a7899d6f2fbcef91f0f5e3f9334cf
+
+COCOAPODS: 1.11.2
